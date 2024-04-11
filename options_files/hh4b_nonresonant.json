@@ -29,7 +29,7 @@
 
     "skip_connections": true,
     "initial_embedding_skip_connections": true,
-    "event_info_file": "./hh4b_SPANet/event_files/hh4b_nonresonantn.yaml",
+    "event_info_file": "./hh4b_SPANet/event_files/hh4b_nonresonant.yaml",
     "training_file": "./hh4b_SPANet/data/hh4b_nonresonant_train.h5",
 
     "normalize_features": true,
